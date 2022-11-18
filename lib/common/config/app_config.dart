@@ -124,36 +124,36 @@ class HostUrl {
   static const String URL_API_SOCKET_RETRO_LOCAL =
       'http://localhost:4000/retro';
   static Uri loginURL =
-      Uri.parse('https://home-dev.kms-technology.com/api/Account/login');
-  static Uri authenURL = Uri.parse('http://localhost:4000/auth/login');
+      Uri.parse('xyz');
+  static Uri authenURL = Uri.parse('xyz');
   static const String URL_GET_IMAGE =
-      'https://hr.kms-technology.com/api/employees/photo/200?code=';
+      'xyz';
   static const String URL_INVITE_GAME =
-      'https://agile-helper.kms-technology.com/game/';
+      'xyz';
   static const String URL_INVITE_BOARD_RETRO =
-      'https://agile-helper.kms-technology.com/dashboard/';
+      'xyz';
 }
 
 class HostProductionUrl {
-  static const String URL_HOST_API = 'agile-helper.kms-technology.com';
+  static const String URL_HOST_API = 'xyz';
   static const String URL_API_SOCKET =
-      'https://agile-helper.kms-technology.com';
+      'xyz';
   static const String URL_API_SOCKET_RETRO =
-      'https://agile-helper.kms-technology.com/retro';
+      'xyz';
   static Uri loginURL =
-      Uri.parse('https://home.kms-technology.com/api/Account/login');
+      Uri.parse('xyz');
 
   static Uri twoFactorAuthURL =
-      Uri.parse('https://home.kms-technology.com/api/Account/TwoFactorAuth');
+      Uri.parse('xyz');
   static Uri authenURL =
-      Uri.parse('https://agile-helper.kms-technology.com/api/auth/login');
+      Uri.parse('xyz');
 
   static const String URL_GET_IMAGE =
-      'https://hr.kms-technology.com/api/employees/photo/200?code=';
+      'xyz';
   static const String URL_INVITE_GAME =
-      'https://agile-helper.kms-technology.com/game/';
+      'xyz';
   static const String URL_INVITE_BOARD_RETRO =
-      'https://agile-helper.kms-technology.com/dashboard/';
+      'xyz';
 }
 
 class UserService {
